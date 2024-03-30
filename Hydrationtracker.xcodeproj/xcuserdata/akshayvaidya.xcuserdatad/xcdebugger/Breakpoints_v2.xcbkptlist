@@ -1,0 +1,957 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "A1AFABDB-48DC-46C0-A332-AFCE85654FD1"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "567F2535-C902-45D9-930C-5DA72991FDFF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hydrationtracker/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "104"
+            endingLineNumber = "104"
+            landmarkName = "arrangeData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "567F2535-C902-45D9-930C-5DA72991FDFF - 5c4aac402d1352fb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Hydrationtracker.ViewController.fetchdata() -&gt; ()"
+                  moduleName = "Hydrationtracker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/Hydrationtracker/Hydrationtracker/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "98"
+                  endingLineNumber = "98"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "567F2535-C902-45D9-930C-5DA72991FDFF - daae75b8e5b2d350"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Hydrationtracker.ViewController.arrangeData() -&gt; ()"
+                  moduleName = "Hydrationtracker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/Hydrationtracker/Hydrationtracker/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "97"
+                  endingLineNumber = "97"
+                  offsetFromSymbolStart = "652">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F184B1FC-24C1-49FD-B9BA-908374D94468"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hydrationtracker/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "102"
+            endingLineNumber = "102"
+            landmarkName = "arrangeData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F184B1FC-24C1-49FD-B9BA-908374D94468 - daae75b8e5b2d316"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Hydrationtracker.ViewController.arrangeData() -&gt; ()"
+                  moduleName = "Hydrationtracker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/Hydrationtracker/Hydrationtracker/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "95"
+                  endingLineNumber = "95"
+                  offsetFromSymbolStart = "316">
+               </Location>
+               <Location
+                  uuid = "F184B1FC-24C1-49FD-B9BA-908374D94468 - 53accd40b1662b94"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Hydrationtracker.Waterlogger) -&gt; Swift.Bool in Hydrationtracker.ViewController.arrangeData() -&gt; ()"
+                  moduleName = "Hydrationtracker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/Hydrationtracker/Hydrationtracker/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "95"
+                  endingLineNumber = "95"
+                  offsetFromSymbolStart = "56">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "23B7492F-5A58-476A-8099-F1F8B6407FA1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hydrationtracker/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "viewWillAppear(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "333A97AE-8BB7-4697-8442-47DC09E94EAB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hydrationtracker/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "129"
+            endingLineNumber = "129"
+            landmarkName = "getData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "333A97AE-8BB7-4697-8442-47DC09E94EAB - 4ca79211d531e186"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Hydrationtracker.ViewController.getData() -&gt; ()"
+                  moduleName = "Hydrationtracker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/Hydrationtracker/Hydrationtracker/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "123"
+                  endingLineNumber = "123"
+                  offsetFromSymbolStart = "444">
+               </Location>
+               <Location
+                  uuid = "333A97AE-8BB7-4697-8442-47DC09E94EAB - c9554ac7acae9bac"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Hydrationtracker.Waterlogger) -&gt; Swift.Bool in Hydrationtracker.ViewController.getData() -&gt; ()"
+                  moduleName = "Hydrationtracker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/Hydrationtracker/Hydrationtracker/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "123"
+                  endingLineNumber = "123"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "333A97AE-8BB7-4697-8442-47DC09E94EAB - 4ca79211d531e1a9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Hydrationtracker.ViewController.getData() -&gt; ()"
+                  moduleName = "Hydrationtracker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/Hydrationtracker/Hydrationtracker/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "124"
+                  endingLineNumber = "124"
+                  offsetFromSymbolStart = "444">
+               </Location>
+               <Location
+                  uuid = "333A97AE-8BB7-4697-8442-47DC09E94EAB - c9554ac7acae9b83"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Hydrationtracker.Waterlogger) -&gt; Swift.Bool in Hydrationtracker.ViewController.getData() -&gt; ()"
+                  moduleName = "Hydrationtracker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/Hydrationtracker/Hydrationtracker/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "124"
+                  endingLineNumber = "124"
+                  offsetFromSymbolStart = "56">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "00331A92-EFC0-4423-A7DE-66EB56873F31"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hydrationtracker/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "131"
+            endingLineNumber = "131"
+            landmarkName = "getData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "00331A92-EFC0-4423-A7DE-66EB56873F31 - 4ca79211d531e048"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Hydrationtracker.ViewController.getData() -&gt; ()"
+                  moduleName = "Hydrationtracker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/Hydrationtracker/Hydrationtracker/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "125"
+                  endingLineNumber = "125"
+                  offsetFromSymbolStart = "836">
+               </Location>
+               <Location
+                  uuid = "00331A92-EFC0-4423-A7DE-66EB56873F31 - 4ca79211d531e06b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Hydrationtracker.ViewController.getData() -&gt; ()"
+                  moduleName = "Hydrationtracker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/Hydrationtracker/Hydrationtracker/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "126"
+                  endingLineNumber = "126"
+                  offsetFromSymbolStart = "836">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8760EC79-EABB-47FC-B7B5-CA074C070AA6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hydrationtracker/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "viewWillAppear(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "674637FA-F2E6-45B8-8097-17498B64AA51"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hydrationtracker/SettingController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "67"
+            endingLineNumber = "67"
+            landmarkName = "notificationtrigger(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D289EEBD-9236-478A-BD4B-648145F6C65B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hydrationtracker/SettingController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "68"
+            endingLineNumber = "68"
+            landmarkName = "notificationtrigger(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0CC22249-B0FA-4961-A633-E17DE2606E9A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hydrationtracker/SettingController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "183"
+            endingLineNumber = "183"
+            landmarkName = "triggerNotification(interval:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6BE50144-EC5E-4B91-ABA2-7136B167FD98"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hydrationtracker/SettingController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "185"
+            endingLineNumber = "185"
+            landmarkName = "triggerNotification(interval:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3E7438E9-0DDD-40D9-AD9B-6CB6C45D8B2A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hydrationtracker/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "triggervalue(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8C85C44E-44A7-4DAF-91B6-2DDAF6225B10"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hydrationtracker/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "triggervalue(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8C85C44E-44A7-4DAF-91B6-2DDAF6225B10 - e69bdf3b70ccaf2b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Hydrationtracker.ViewController.triggervalue(Foundation.Notification) -&gt; ()"
+                  moduleName = "Hydrationtracker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/Hydrationtracker/Hydrationtracker/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "3464">
+               </Location>
+               <Location
+                  uuid = "8C85C44E-44A7-4DAF-91B6-2DDAF6225B10 - e69bdf3b70ccaeca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Hydrationtracker.ViewController.triggervalue(Foundation.Notification) -&gt; ()"
+                  moduleName = "Hydrationtracker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/Hydrationtracker/Hydrationtracker/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "1256">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "67E41D67-8D1D-43CD-9793-261C0DD7034A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hydrationtracker/SettingController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "141"
+            endingLineNumber = "141"
+            landmarkName = "getData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "67E41D67-8D1D-43CD-9793-261C0DD7034A - 30a9789e15e1145c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Hydrationtracker.SettingController.getData() -&gt; ()"
+                  moduleName = "Hydrationtracker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/Hydrationtracker/Hydrationtracker/SettingController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "117"
+                  endingLineNumber = "117"
+                  offsetFromSymbolStart = "2684">
+               </Location>
+               <Location
+                  uuid = "67E41D67-8D1D-43CD-9793-261C0DD7034A - 30a9789e15e1145c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Hydrationtracker.SettingController.getData() -&gt; ()"
+                  moduleName = "Hydrationtracker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/Hydrationtracker/Hydrationtracker/SettingController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "117"
+                  endingLineNumber = "117"
+                  offsetFromSymbolStart = "2488">
+               </Location>
+               <Location
+                  uuid = "67E41D67-8D1D-43CD-9793-261C0DD7034A - 30a9789e15e11744"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Hydrationtracker.SettingController.getData() -&gt; ()"
+                  moduleName = "Hydrationtracker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/Hydrationtracker/Hydrationtracker/SettingController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "141"
+                  endingLineNumber = "141"
+                  offsetFromSymbolStart = "2488">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "52184B5B-AED9-4461-816C-A4D30DE8C091"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hydrationtracker/SettingController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "140"
+            endingLineNumber = "140"
+            landmarkName = "getData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "52184B5B-AED9-4461-816C-A4D30DE8C091 - 30a9789e15e11a89"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Hydrationtracker.SettingController.getData() -&gt; ()"
+                  moduleName = "Hydrationtracker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/Hydrationtracker/Hydrationtracker/SettingController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "96"
+                  endingLineNumber = "96"
+                  offsetFromSymbolStart = "2156">
+               </Location>
+               <Location
+                  uuid = "52184B5B-AED9-4461-816C-A4D30DE8C091 - 30a9789e15e11a89"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Hydrationtracker.SettingController.getData() -&gt; ()"
+                  moduleName = "Hydrationtracker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/Hydrationtracker/Hydrationtracker/SettingController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "96"
+                  endingLineNumber = "96"
+                  offsetFromSymbolStart = "2220">
+               </Location>
+               <Location
+                  uuid = "52184B5B-AED9-4461-816C-A4D30DE8C091 - 30a9789e15e11a89"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Hydrationtracker.SettingController.getData() -&gt; ()"
+                  moduleName = "Hydrationtracker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/Hydrationtracker/Hydrationtracker/SettingController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "96"
+                  endingLineNumber = "96"
+                  offsetFromSymbolStart = "2212">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "39A7E29A-4D86-4BE0-BDED-9834860B9619"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hydrationtracker/SettingController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "205"
+            endingLineNumber = "205"
+            landmarkName = "arrangeData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0C22B5C7-61F5-4499-A0F1-AD2F35ACDFE6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hydrationtracker/SettingController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "218"
+            endingLineNumber = "218"
+            landmarkName = "arrangeData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0C22B5C7-61F5-4499-A0F1-AD2F35ACDFE6 - e39dd1bf36d2baa2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Hydrationtracker.SettingController.arrangeData() -&gt; ()"
+                  moduleName = "Hydrationtracker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/Hydrationtracker/Hydrationtracker/SettingController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "195"
+                  endingLineNumber = "195"
+                  offsetFromSymbolStart = "1712">
+               </Location>
+               <Location
+                  uuid = "0C22B5C7-61F5-4499-A0F1-AD2F35ACDFE6 - e39dd1bf36d2bac3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Hydrationtracker.SettingController.arrangeData() -&gt; ()"
+                  moduleName = "Hydrationtracker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/Hydrationtracker/Hydrationtracker/SettingController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "194"
+                  endingLineNumber = "194"
+                  offsetFromSymbolStart = "1684">
+               </Location>
+               <Location
+                  uuid = "0C22B5C7-61F5-4499-A0F1-AD2F35ACDFE6 - e39dd1bf36d2bdbb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Hydrationtracker.SettingController.arrangeData() -&gt; ()"
+                  moduleName = "Hydrationtracker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/Hydrationtracker/Hydrationtracker/SettingController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "218"
+                  endingLineNumber = "218"
+                  offsetFromSymbolStart = "1684">
+               </Location>
+               <Location
+                  uuid = "0C22B5C7-61F5-4499-A0F1-AD2F35ACDFE6 - e39dd1bf36d2bdbb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Hydrationtracker.SettingController.arrangeData() -&gt; ()"
+                  moduleName = "Hydrationtracker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/Hydrationtracker/Hydrationtracker/SettingController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "218"
+                  endingLineNumber = "218"
+                  offsetFromSymbolStart = "1712">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D98C1753-9078-4548-A600-1E15182CF97D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hydrationtracker/CalenderController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "getData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "207CBCA6-7E13-4EFA-BCA0-E740B7728EC6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hydrationtracker/CalenderController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "getData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "207CBCA6-7E13-4EFA-BCA0-E740B7728EC6 - 4d8b1627243bc807"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Hydrationtracker.CalenderController.getData() -&gt; ()"
+                  moduleName = "Hydrationtracker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/Hydrationtracker/Hydrationtracker/CalenderController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "804">
+               </Location>
+               <Location
+                  uuid = "207CBCA6-7E13-4EFA-BCA0-E740B7728EC6 - 8c9f8e34c26bf37e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Hydrationtracker.Waterlogger) -&gt; Swift.Bool in Hydrationtracker.CalenderController.getData() -&gt; ()"
+                  moduleName = "Hydrationtracker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/Hydrationtracker/Hydrationtracker/CalenderController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "56">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CF0B67CD-9A42-41A3-BA25-CD671DB2FAD4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hydrationtracker/SettingController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "210"
+            endingLineNumber = "210"
+            landmarkName = "arrangeData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CF0B67CD-9A42-41A3-BA25-CD671DB2FAD4 - e39dd1bf36d2b9db"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Hydrationtracker.SettingController.arrangeData() -&gt; ()"
+                  moduleName = "Hydrationtracker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/Hydrationtracker/Hydrationtracker/SettingController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "186"
+                  endingLineNumber = "186"
+                  offsetFromSymbolStart = "896">
+               </Location>
+               <Location
+                  uuid = "CF0B67CD-9A42-41A3-BA25-CD671DB2FAD4 - e39dd1bf36d2b9db"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Hydrationtracker.SettingController.arrangeData() -&gt; ()"
+                  moduleName = "Hydrationtracker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/Hydrationtracker/Hydrationtracker/SettingController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "186"
+                  endingLineNumber = "186"
+                  offsetFromSymbolStart = "724">
+               </Location>
+               <Location
+                  uuid = "CF0B67CD-9A42-41A3-BA25-CD671DB2FAD4 - e39dd1bf36d2bcb3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Hydrationtracker.SettingController.arrangeData() -&gt; ()"
+                  moduleName = "Hydrationtracker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/Hydrationtracker/Hydrationtracker/SettingController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "210"
+                  endingLineNumber = "210"
+                  offsetFromSymbolStart = "724">
+               </Location>
+               <Location
+                  uuid = "CF0B67CD-9A42-41A3-BA25-CD671DB2FAD4 - e39dd1bf36d2bcb3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Hydrationtracker.SettingController.arrangeData() -&gt; ()"
+                  moduleName = "Hydrationtracker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/Hydrationtracker/Hydrationtracker/SettingController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "210"
+                  endingLineNumber = "210"
+                  offsetFromSymbolStart = "748">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9DFDD920-951C-4DD4-9131-66895F485775"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hydrationtracker/CalenderController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "getData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0F87D108-FF1A-4C78-8CEA-D97FC9C5A19A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hydrationtracker/SettingController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "216"
+            endingLineNumber = "216"
+            landmarkName = "arrangeData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0F87D108-FF1A-4C78-8CEA-D97FC9C5A19A - e39dd1bf36d2baa2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Hydrationtracker.SettingController.arrangeData() -&gt; ()"
+                  moduleName = "Hydrationtracker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/Hydrationtracker/Hydrationtracker/SettingController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "195"
+                  endingLineNumber = "195"
+                  offsetFromSymbolStart = "1712">
+               </Location>
+               <Location
+                  uuid = "0F87D108-FF1A-4C78-8CEA-D97FC9C5A19A - e39dd1bf36d2ba05"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Hydrationtracker.SettingController.arrangeData() -&gt; ()"
+                  moduleName = "Hydrationtracker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/Hydrationtracker/Hydrationtracker/SettingController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "192"
+                  endingLineNumber = "192"
+                  offsetFromSymbolStart = "1580">
+               </Location>
+               <Location
+                  uuid = "0F87D108-FF1A-4C78-8CEA-D97FC9C5A19A - e39dd1bf36d2bdfd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Hydrationtracker.SettingController.arrangeData() -&gt; ()"
+                  moduleName = "Hydrationtracker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/Hydrationtracker/Hydrationtracker/SettingController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "216"
+                  endingLineNumber = "216"
+                  offsetFromSymbolStart = "1580">
+               </Location>
+               <Location
+                  uuid = "0F87D108-FF1A-4C78-8CEA-D97FC9C5A19A - e39dd1bf36d2bdfd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Hydrationtracker.SettingController.arrangeData() -&gt; ()"
+                  moduleName = "Hydrationtracker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/Hydrationtracker/Hydrationtracker/SettingController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "216"
+                  endingLineNumber = "216"
+                  offsetFromSymbolStart = "1608">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2254BBFC-C8EF-4176-BF29-72E82CEB46D0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hydrationtracker/SettingController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "138"
+            endingLineNumber = "138"
+            landmarkName = "getData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2254BBFC-C8EF-4176-BF29-72E82CEB46D0 - 30a9789e15e114ff"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Hydrationtracker.SettingController.getData() -&gt; ()"
+                  moduleName = "Hydrationtracker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/Hydrationtracker/Hydrationtracker/SettingController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "114"
+                  endingLineNumber = "114"
+                  offsetFromSymbolStart = "2488">
+               </Location>
+               <Location
+                  uuid = "2254BBFC-C8EF-4176-BF29-72E82CEB46D0 - 30a9789e15e114ff"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Hydrationtracker.SettingController.getData() -&gt; ()"
+                  moduleName = "Hydrationtracker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/Hydrationtracker/Hydrationtracker/SettingController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "114"
+                  endingLineNumber = "114"
+                  offsetFromSymbolStart = "1648">
+               </Location>
+               <Location
+                  uuid = "2254BBFC-C8EF-4176-BF29-72E82CEB46D0 - 30a9789e15e117e7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Hydrationtracker.SettingController.getData() -&gt; ()"
+                  moduleName = "Hydrationtracker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/Hydrationtracker/Hydrationtracker/SettingController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "138"
+                  endingLineNumber = "138"
+                  offsetFromSymbolStart = "1648">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "350E2A80-5E83-4D13-8BC4-5CA659691930"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hydrationtracker/SettingController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "167"
+            endingLineNumber = "167"
+            landmarkName = "triggerNotification(interval:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "350E2A80-5E83-4D13-8BC4-5CA659691930 - c2c5217320a8735a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Hydrationtracker.SettingController.triggerNotification(interval: Swift.Double) -&gt; ()"
+                  moduleName = "Hydrationtracker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/Hydrationtracker/Hydrationtracker/SettingController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "167"
+                  endingLineNumber = "167"
+                  offsetFromSymbolStart = "668">
+               </Location>
+               <Location
+                  uuid = "350E2A80-5E83-4D13-8BC4-5CA659691930 - c2c5217320a8735a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Hydrationtracker.SettingController.triggerNotification(interval: Swift.Double) -&gt; ()"
+                  moduleName = "Hydrationtracker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/Hydrationtracker/Hydrationtracker/SettingController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "167"
+                  endingLineNumber = "167"
+                  offsetFromSymbolStart = "836">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
