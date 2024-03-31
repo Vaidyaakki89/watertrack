@@ -6,7 +6,7 @@
 
 import UIKit
 
-class SettingController: UIViewController, UIPickerViewDelegate,UIPickerViewDataSource {
+class SettingController: UIViewController {
  
     
     
@@ -84,42 +84,7 @@ class SettingController: UIViewController, UIPickerViewDelegate,UIPickerViewData
     }
     
     
-    func numberOfComponents(in pickerView: UIPickerView) -> Int {
-        return 1
-    }
-    
-    func pickerView(_ pickerView: UIPickerView, numberOfRowsInComponent component: Int) -> Int {
-        if pickerView == picker{
-            
-            return durations.count
-        }else{
-            return glassSizes.count
-            
-        }
-    }
-    
-    func pickerView(_ pickerView: UIPickerView, titleForRow row: Int, forComponent component: Int) -> String? {
-        
-        if pickerView == picker{
-            return durations[row]
-        }
-        else{
-            return glassSizes[row]
-            
-        }
-    }
-    
-    func pickerView(_ pickerView: UIPickerView, didSelectRow row: Int, inComponent component: Int) {
-        
-        if pickerView == picker{
-          selectedtime = durations[row]
-        }
-        else{
-            glasssize = glassSizes[row]
-            
-        }
-       
-    }
+ 
     
     func getData(){
          
@@ -143,16 +108,7 @@ class SettingController: UIViewController, UIPickerViewDelegate,UIPickerViewData
          
      }
     
-    func fetchdata(){
-        do{
-            loggers = try context.fetch(Waterlogger.fetchRequest())
-            
-        }
-        catch{
-            
-            print(error.localizedDescription)
-        }
-    }
+   
     
     
     func triggerNotification(interval:TimeInterval)
@@ -205,21 +161,70 @@ class SettingController: UIViewController, UIPickerViewDelegate,UIPickerViewData
             context.delete(entry)
             
             saveData()
+            
+            let item = Waterlogger(context: context)
+            
+            item.date = date1
+            item.glass = glass
+            item.totalglass = totalglass
+            item.glassratio = Int16((Double(glass)/Double(totalglass)) * 100)
+            item.glassize = glasssize
+            item.isnotification = notificationswitch.isOn
+            saveData()
         }
         
-        let item = Waterlogger(context: context)
-        
-        item.date = date1
-        item.glass = glass
-        item.totalglass = totalglass
-        item.glassratio = Int16((Double(glass)/Double(totalglass)) * 100)
-        item.glassize = glasssize
-        item.isnotification = notificationswitch.isOn
-        saveData()
+      
         
         
         
     }
+    
+}
+
+
+extension SettingController: UIPickerViewDelegate,UIPickerViewDataSource{
+    
+    func numberOfComponents(in pickerView: UIPickerView) -> Int {
+        return 1
+    }
+    
+    func pickerView(_ pickerView: UIPickerView, numberOfRowsInComponent component: Int) -> Int {
+        if pickerView == picker{
+            
+            return durations.count
+        }else{
+            return glassSizes.count
+            
+        }
+    }
+    
+    func pickerView(_ pickerView: UIPickerView, titleForRow row: Int, forComponent component: Int) -> String? {
+        
+        if pickerView == picker{
+            return durations[row]
+        }
+        else{
+            return glassSizes[row]
+            
+        }
+    }
+    
+    func pickerView(_ pickerView: UIPickerView, didSelectRow row: Int, inComponent component: Int) {
+        
+        if pickerView == picker{
+          selectedtime = durations[row]
+        }
+        else{
+            glasssize = glassSizes[row]
+            
+        }
+       
+    }
+    
+}
+
+
+extension SettingController{
     
     func saveData(){
         do{
@@ -232,6 +237,19 @@ class SettingController: UIViewController, UIPickerViewDelegate,UIPickerViewData
         }
         
     }
+    
+    func fetchdata(){
+        do{
+            loggers = try context.fetch(Waterlogger.fetchRequest())
+            
+        }
+        catch{
+            
+            print(error.localizedDescription)
+        }
+    }
+    
+    
     
     func showAlert(){
         
@@ -304,5 +322,6 @@ class SettingController: UIViewController, UIPickerViewDelegate,UIPickerViewData
         }
         
     }
-}
 
+    
+}

@@ -29,9 +29,20 @@ class CalenderController: UIViewController {
     }
     
     override func viewWillAppear(_ animated: Bool) {
-        
+        NotificationCenter.default
+                          .addObserver(self,
+                                       selector: #selector(setDate),
+                         name: NSNotification.Name ("isForeground"),                                           object: nil)
         getData()
      
+    }
+    
+
+    
+    @objc func setDate(){
+        
+        datepicker.date = Date()
+        getData()
     }
     
     
@@ -90,5 +101,11 @@ class CalenderController: UIViewController {
         
         getData()
     }
+    
+    
+    deinit {
+      NotificationCenter.default
+       .removeObserver(self, name:  NSNotification.Name("isForeground"), object: nil)
+}
     
 }

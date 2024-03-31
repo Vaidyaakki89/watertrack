@@ -144,6 +144,20 @@ class ViewController: UIViewController {
     }
     
     
+   
+    
+ 
+        deinit {
+          NotificationCenter.default
+           .removeObserver(self, name:  NSNotification.Name("isvaluechanged"), object: nil)
+    }
+   
+
+}
+
+
+extension ViewController{
+    
     func fetchdata(){
         do{
             loggers = try context.fetch(Waterlogger.fetchRequest())
@@ -166,14 +180,6 @@ class ViewController: UIViewController {
         }
         
     }
-    
- 
-        deinit {
-          NotificationCenter.default
-           .removeObserver(self, name:  NSNotification.Name("isvaluechanged"), object: nil)
-    }
-   
-
 }
 
 
@@ -183,9 +189,7 @@ extension Date{
     func getdate()->String{
       
         var formatter = DateFormatter()
-//        formatter.dateFormat = "yyyy-MM-dd'T'HH:mm:ss.SSS'Z'"
-//
-//        var date = formatter.date(from: self)
+
 
         formatter.dateFormat = "dd/MM/yyyy"
         
