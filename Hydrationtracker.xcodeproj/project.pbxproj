@@ -16,6 +16,8 @@
 		F7B1C4352BB8289900738CCC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F7B1C4332BB8289900738CCC /* LaunchScreen.storyboard */; };
 		F7B1C43D2BB828FE00738CCC /* CalenderController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7B1C43C2BB828FE00738CCC /* CalenderController.swift */; };
 		F7B1C43F2BB8290E00738CCC /* SettingController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7B1C43E2BB8290E00738CCC /* SettingController.swift */; };
+		F7FD5A592BBBDB7400A5AB5D /* SecController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7FD5A582BBBDB7400A5AB5D /* SecController.swift */; };
+		F7FD5A5B2BBBDB8100A5AB5D /* ThirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7FD5A5A2BBBDB8100A5AB5D /* ThirdViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +32,8 @@
 		F7B1C4362BB8289900738CCC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F7B1C43C2BB828FE00738CCC /* CalenderController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalenderController.swift; sourceTree = "<group>"; };
 		F7B1C43E2BB8290E00738CCC /* SettingController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingController.swift; sourceTree = "<group>"; };
+		F7FD5A582BBBDB7400A5AB5D /* SecController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecController.swift; sourceTree = "<group>"; };
+		F7FD5A5A2BBBDB8100A5AB5D /* ThirdViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +69,8 @@
 				F7B1C4252BB8289700738CCC /* AppDelegate.swift */,
 				F7B1C4272BB8289700738CCC /* SceneDelegate.swift */,
 				F7B1C4292BB8289700738CCC /* ViewController.swift */,
+				F7FD5A582BBBDB7400A5AB5D /* SecController.swift */,
+				F7FD5A5A2BBBDB8100A5AB5D /* ThirdViewController.swift */,
 				F7B1C43C2BB828FE00738CCC /* CalenderController.swift */,
 				F7B1C43E2BB8290E00738CCC /* SettingController.swift */,
 				F7B1C42B2BB8289700738CCC /* Main.storyboard */,
@@ -148,10 +154,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				F7B1C43F2BB8290E00738CCC /* SettingController.swift in Sources */,
+				F7FD5A592BBBDB7400A5AB5D /* SecController.swift in Sources */,
 				F7B1C42A2BB8289700738CCC /* ViewController.swift in Sources */,
 				F7B1C4262BB8289700738CCC /* AppDelegate.swift in Sources */,
 				F7B1C4282BB8289700738CCC /* SceneDelegate.swift in Sources */,
 				F7B1C4302BB8289700738CCC /* Hydrationtracker.xcdatamodeld in Sources */,
+				F7FD5A5B2BBBDB8100A5AB5D /* ThirdViewController.swift in Sources */,
 				F7B1C43D2BB828FE00738CCC /* CalenderController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

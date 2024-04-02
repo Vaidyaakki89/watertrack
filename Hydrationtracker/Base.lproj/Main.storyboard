@@ -313,6 +313,36 @@
             </objects>
             <point key="canvasLocation" x="2151" y="-35"/>
         </scene>
+        <!--View Controller-->
+        <scene sceneID="hfM-wu-t8T">
+            <objects>
+                <viewController id="W1V-EK-1Dz" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="Byx-1e-1uf">
+                        <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <viewLayoutGuide key="safeArea" id="Mlb-rc-Org"/>
+                        <color key="backgroundColor" systemColor="systemCyanColor"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="aCr-R5-UMg" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="3845" y="-76"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="pgT-Ca-p1P">
+            <objects>
+                <viewController id="HrM-km-9Uy" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="WfX-Rm-F36">
+                        <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <viewLayoutGuide key="safeArea" id="Wrc-TZ-hRt"/>
+                        <color key="backgroundColor" systemColor="systemGreenColor"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="Ur2-ti-7WJ" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="5528" y="-179"/>
+        </scene>
         <!--Setting-->
         <scene sceneID="eDF-QU-H2j">
             <objects>
@@ -459,6 +489,12 @@
         <image name="waterbar" width="215" height="201"/>
         <systemColor name="systemBackgroundColor">
             <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+        <systemColor name="systemCyanColor">
+            <color red="0.1960784314" green="0.67843137249999996" blue="0.90196078430000004" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </systemColor>
+        <systemColor name="systemGreenColor">
+            <color red="0.20392156859999999" green="0.78039215689999997" blue="0.34901960780000002" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
         </systemColor>
     </resources>
 </document>
